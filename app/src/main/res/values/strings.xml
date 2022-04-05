@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stay Healthy</string>
+    <string name="daftar">Daftar</string>
+    <string name="login">Login</string>
+    <string name="tagline_selamat">Selamat Menerapkan pola hidup sehat !</string>
+    <string name="hai">Hai Jennifer Susanti</string>
+    <string name="kategori">Kategori</string>
+    <string name="pengetahuan">Pengetahuan</string>
+</resources>

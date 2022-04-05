@@ -1,0 +1,61 @@
+<!-- drawable/bgapps.xml -->
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="1000dp"
+    android:height="1500dp"
+    android:viewportWidth="1000"
+    android:viewportHeight="1500"
+    >
+
+    <group>
+
+        <clip-path
+            android:pathData="M0 0H1000V1500H0V0Z"
+            />
+
+        <group
+            android:translateX="0.355"
+            android:translateY="-1.704"
+            android:pivotX="500"
+            android:pivotY="750"
+            android:scaleX="2.857"
+            android:scaleY="7.654"
+            android:rotation="42.897"
+            >
+
+            <path
+                android:pathData="M0 0V1500H1000V0"
+                >
+
+                <aapt:attr name="android:fillColor">
+
+                    <gradient
+                        android:type="linear"
+                        android:startX="250"
+                        android:startY="750"
+                        android:endX="750"
+                        android:endY="750"
+                        >
+
+                        <item
+                            android:color="#6C5DD3"
+                            android:offset="0"
+                            />
+
+                        <item
+                            android:color="#8BB6DD"
+                            android:offset="1"
+                            />
+
+                    </gradient>
+
+                </aapt:attr>
+
+            </path>
+
+        </group>
+
+    </group>
+
+</vector>
